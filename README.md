@@ -21,7 +21,7 @@
 ## 🚀 Arquitectura del Proyecto
 
 ```
-demoni_pro/
+demonitalk_pro/
 ├── lib/                             # Interfaz de Usuario e integración Flutter
 │   └── main.dart                    # UI, Control de Ajustes, Importación/Exportación
 ├── native/
